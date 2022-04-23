@@ -1,6 +1,6 @@
 # PINGU-Sat
 
-The **P**fotzer **IN**vestigation and **G**eiger **U**tilization **Sat**ellite (PINGU-Sat) is a small satellite that is to be flown on a weather balloon with the aim of investigating the profile of ionizing radiation in the stratosphere using a Geiger Muller detector. 
+The **P**fotzer **IN**vestigation and **G**eiger **U**tilization **Sat**ellite (PINGU-Sat) is a small satellite that was flown on a weather balloon with the aim of investigating the profile of ionizing radiation in the stratosphere using a Geiger Muller detector. 
 
 This repository contains the Python code that makes up PINGU-Sat's onboard software system. The repository is structured as follows:
 * pingu_main.py 
